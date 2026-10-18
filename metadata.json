@@ -1,0 +1,6 @@
+{
+  "name": "HomeOrder - Заказы блюд для двоих",
+  "description": "Приложение для пар: общий каталог из 29+ блюд, заказ партнеру, таймер готовки, QR-привязка и уведомления.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
